@@ -118,9 +118,9 @@ function App() {
         {/* Names */}
         <div className="mt-10 text-gray-800 font-semibold leading-relaxed text-base sm:text-lg">
           आपले स्नेहांकित, <br />
-          सौ. जागृती आणि श्री. गणेश कुलकर्णी <br />
+          सौ. जागृती व श्री. गणेश कुलकर्णी <br />
           निमंत्रक <br />
-          सौ. पौर्णिमा आणि श्री. राहुल जोशी
+          सौ. पौर्णिमा व श्री. राहुल जोशी
         </div>
       </div>
 
